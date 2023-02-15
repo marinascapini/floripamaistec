@@ -1,0 +1,15 @@
+/Users/marinascapini/Projects/ex03ao06/ex03ao06/bin/Debug/net7.0/ex03ao06
+/Users/marinascapini/Projects/ex03ao06/ex03ao06/bin/Debug/net7.0/ex03ao06.deps.json
+/Users/marinascapini/Projects/ex03ao06/ex03ao06/bin/Debug/net7.0/ex03ao06.runtimeconfig.json
+/Users/marinascapini/Projects/ex03ao06/ex03ao06/bin/Debug/net7.0/ex03ao06.dll
+/Users/marinascapini/Projects/ex03ao06/ex03ao06/bin/Debug/net7.0/ex03ao06.pdb
+/Users/marinascapini/Projects/ex03ao06/ex03ao06/obj/Debug/net7.0/ex03ao06.csproj.AssemblyReference.cache
+/Users/marinascapini/Projects/ex03ao06/ex03ao06/obj/Debug/net7.0/ex03ao06.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marinascapini/Projects/ex03ao06/ex03ao06/obj/Debug/net7.0/ex03ao06.AssemblyInfoInputs.cache
+/Users/marinascapini/Projects/ex03ao06/ex03ao06/obj/Debug/net7.0/ex03ao06.AssemblyInfo.cs
+/Users/marinascapini/Projects/ex03ao06/ex03ao06/obj/Debug/net7.0/ex03ao06.csproj.CoreCompileInputs.cache
+/Users/marinascapini/Projects/ex03ao06/ex03ao06/obj/Debug/net7.0/ex03ao06.dll
+/Users/marinascapini/Projects/ex03ao06/ex03ao06/obj/Debug/net7.0/refint/ex03ao06.dll
+/Users/marinascapini/Projects/ex03ao06/ex03ao06/obj/Debug/net7.0/ex03ao06.pdb
+/Users/marinascapini/Projects/ex03ao06/ex03ao06/obj/Debug/net7.0/ex03ao06.genruntimeconfig.cache
+/Users/marinascapini/Projects/ex03ao06/ex03ao06/obj/Debug/net7.0/ref/ex03ao06.dll
