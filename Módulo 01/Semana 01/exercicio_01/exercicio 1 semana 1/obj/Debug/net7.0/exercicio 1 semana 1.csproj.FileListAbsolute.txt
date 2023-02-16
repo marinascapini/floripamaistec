@@ -1,0 +1,15 @@
+/Users/marinascapini/Projects/exercicio 1 semana 1/exercicio 1 semana 1/bin/Debug/net7.0/exercicio 1 semana 1
+/Users/marinascapini/Projects/exercicio 1 semana 1/exercicio 1 semana 1/bin/Debug/net7.0/exercicio 1 semana 1.deps.json
+/Users/marinascapini/Projects/exercicio 1 semana 1/exercicio 1 semana 1/bin/Debug/net7.0/exercicio 1 semana 1.runtimeconfig.json
+/Users/marinascapini/Projects/exercicio 1 semana 1/exercicio 1 semana 1/bin/Debug/net7.0/exercicio 1 semana 1.dll
+/Users/marinascapini/Projects/exercicio 1 semana 1/exercicio 1 semana 1/bin/Debug/net7.0/exercicio 1 semana 1.pdb
+/Users/marinascapini/Projects/exercicio 1 semana 1/exercicio 1 semana 1/obj/Debug/net7.0/exercicio 1 semana 1.csproj.AssemblyReference.cache
+/Users/marinascapini/Projects/exercicio 1 semana 1/exercicio 1 semana 1/obj/Debug/net7.0/exercicio 1 semana 1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marinascapini/Projects/exercicio 1 semana 1/exercicio 1 semana 1/obj/Debug/net7.0/exercicio 1 semana 1.AssemblyInfoInputs.cache
+/Users/marinascapini/Projects/exercicio 1 semana 1/exercicio 1 semana 1/obj/Debug/net7.0/exercicio 1 semana 1.AssemblyInfo.cs
+/Users/marinascapini/Projects/exercicio 1 semana 1/exercicio 1 semana 1/obj/Debug/net7.0/exercicio 1 semana 1.csproj.CoreCompileInputs.cache
+/Users/marinascapini/Projects/exercicio 1 semana 1/exercicio 1 semana 1/obj/Debug/net7.0/exercicio 1 semana 1.dll
+/Users/marinascapini/Projects/exercicio 1 semana 1/exercicio 1 semana 1/obj/Debug/net7.0/refint/exercicio 1 semana 1.dll
+/Users/marinascapini/Projects/exercicio 1 semana 1/exercicio 1 semana 1/obj/Debug/net7.0/exercicio 1 semana 1.pdb
+/Users/marinascapini/Projects/exercicio 1 semana 1/exercicio 1 semana 1/obj/Debug/net7.0/exercicio 1 semana 1.genruntimeconfig.cache
+/Users/marinascapini/Projects/exercicio 1 semana 1/exercicio 1 semana 1/obj/Debug/net7.0/ref/exercicio 1 semana 1.dll
