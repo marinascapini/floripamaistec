@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/marinascapini/Projects/Exercicio 01 semana 03/Exercicio 01 semana 03/Exercicio 01 semana 03.csproj": {}
+  },
+  "projects": {
+    "/Users/marinascapini/Projects/Exercicio 01 semana 03/Exercicio 01 semana 03/Exercicio 01 semana 03.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/marinascapini/Projects/Exercicio 01 semana 03/Exercicio 01 semana 03/Exercicio 01 semana 03.csproj",
+        "projectName": "Exercicio 01 semana 03",
+        "projectPath": "/Users/marinascapini/Projects/Exercicio 01 semana 03/Exercicio 01 semana 03/Exercicio 01 semana 03.csproj",
+        "packagesPath": "/Users/marinascapini/.nuget/packages/",
+        "outputPath": "/Users/marinascapini/Projects/Exercicio 01 semana 03/Exercicio 01 semana 03/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/marinascapini/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.103/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
