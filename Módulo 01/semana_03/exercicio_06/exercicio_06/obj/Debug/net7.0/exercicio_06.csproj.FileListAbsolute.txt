@@ -1,0 +1,5 @@
+/Users/marinascapini/Documents/floripamaistec/modulo_01/semana_03/exercicio_06/exercicio_06/obj/Debug/net7.0/exercicio_06.csproj.AssemblyReference.cache
+/Users/marinascapini/Documents/floripamaistec/modulo_01/semana_03/exercicio_06/exercicio_06/obj/Debug/net7.0/exercicio_06.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marinascapini/Documents/floripamaistec/modulo_01/semana_03/exercicio_06/exercicio_06/obj/Debug/net7.0/exercicio_06.AssemblyInfoInputs.cache
+/Users/marinascapini/Documents/floripamaistec/modulo_01/semana_03/exercicio_06/exercicio_06/obj/Debug/net7.0/exercicio_06.AssemblyInfo.cs
+/Users/marinascapini/Documents/floripamaistec/modulo_01/semana_03/exercicio_06/exercicio_06/obj/Debug/net7.0/exercicio_06.csproj.CoreCompileInputs.cache
