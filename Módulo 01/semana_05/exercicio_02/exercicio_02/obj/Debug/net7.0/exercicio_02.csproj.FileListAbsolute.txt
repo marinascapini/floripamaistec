@@ -1,0 +1,15 @@
+/Users/marinascapini/Documents/floripamaistec/modulo_01/semana_05/exercicio_02/exercicio_02/obj/Debug/net7.0/exercicio_02.csproj.AssemblyReference.cache
+/Users/marinascapini/Documents/floripamaistec/modulo_01/semana_05/exercicio_02/exercicio_02/obj/Debug/net7.0/exercicio_02.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marinascapini/Documents/floripamaistec/modulo_01/semana_05/exercicio_02/exercicio_02/obj/Debug/net7.0/exercicio_02.AssemblyInfoInputs.cache
+/Users/marinascapini/Documents/floripamaistec/modulo_01/semana_05/exercicio_02/exercicio_02/obj/Debug/net7.0/exercicio_02.AssemblyInfo.cs
+/Users/marinascapini/Documents/floripamaistec/modulo_01/semana_05/exercicio_02/exercicio_02/obj/Debug/net7.0/exercicio_02.csproj.CoreCompileInputs.cache
+/Users/marinascapini/Documents/floripamaistec/modulo_01/semana_05/exercicio_02/exercicio_02/bin/Debug/net7.0/exercicio_02
+/Users/marinascapini/Documents/floripamaistec/modulo_01/semana_05/exercicio_02/exercicio_02/bin/Debug/net7.0/exercicio_02.deps.json
+/Users/marinascapini/Documents/floripamaistec/modulo_01/semana_05/exercicio_02/exercicio_02/bin/Debug/net7.0/exercicio_02.runtimeconfig.json
+/Users/marinascapini/Documents/floripamaistec/modulo_01/semana_05/exercicio_02/exercicio_02/bin/Debug/net7.0/exercicio_02.dll
+/Users/marinascapini/Documents/floripamaistec/modulo_01/semana_05/exercicio_02/exercicio_02/bin/Debug/net7.0/exercicio_02.pdb
+/Users/marinascapini/Documents/floripamaistec/modulo_01/semana_05/exercicio_02/exercicio_02/obj/Debug/net7.0/exercicio_02.dll
+/Users/marinascapini/Documents/floripamaistec/modulo_01/semana_05/exercicio_02/exercicio_02/obj/Debug/net7.0/refint/exercicio_02.dll
+/Users/marinascapini/Documents/floripamaistec/modulo_01/semana_05/exercicio_02/exercicio_02/obj/Debug/net7.0/exercicio_02.pdb
+/Users/marinascapini/Documents/floripamaistec/modulo_01/semana_05/exercicio_02/exercicio_02/obj/Debug/net7.0/exercicio_02.genruntimeconfig.cache
+/Users/marinascapini/Documents/floripamaistec/modulo_01/semana_05/exercicio_02/exercicio_02/obj/Debug/net7.0/ref/exercicio_02.dll
